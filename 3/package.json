@@ -1,0 +1,22 @@
+{
+  "name": "3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-jsdoc": "^0.1.5",
+    "gulp-jsdoc-json": "^1.0.1",
+    "gulp-jsdoc3": "^2.0.0",
+    "jsdoc": "^3.5.5",
+    "jsdoc-json": "^2.0.2"
+  },
+  "devDependencies": {}
+}
